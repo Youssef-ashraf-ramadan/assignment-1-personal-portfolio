@@ -43,6 +43,7 @@ header p {
 .nav-links {
     display: flex;
     justify-content: center;
+    flex-wrap: wrap;
     margin-top: 25px;
     list-style: none;
     gap: 14px;
